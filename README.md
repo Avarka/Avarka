@@ -1,7 +1,7 @@
 ### Üdv itt! (English version below)
-- 🔭 Jelenleg egy Twitch moderátor boton dolgozom a [Minokawa Dev Division](https://github.com/Minokawa-Dev-Division)-nél.
+- 🎓 Jelenleg a Szegedi Tudományegyetem Természettudományi és Informatikai karán tanulok.
 - 📫 [Itt](mailto:vadavar7@gmail.com) írhatsz nekem emailt.
 
 ### Hello there 
-- 🔭 I’m currently working on a Twitch moderation bot at [Minokawa Dev Division](https://github.com/Minokawa-Dev-Division).
+- 🎓 I'm currently a student of University of Szeged, Faculty of Science and Informatics.
 - 📫 How to reach me: [via email](mailto:vadavar7@gmail.com).
